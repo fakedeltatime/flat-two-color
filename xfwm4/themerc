@@ -1,7 +1,7 @@
 #XFCE Themerc for CDE Palette: Crimson.dp
 active_text_color=#ffffff
 inactive_text_color=#bfbfbf
-button_offset=-1
+button_offset=-2
 button_spacing=0
 full_width_title=true
 maximized_offset=0
